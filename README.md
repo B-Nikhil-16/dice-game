@@ -4,7 +4,7 @@ A simple two-player dice game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-[Play the Dice Game](YOUR_GITHUB_PAGES_LINK)
+[Play the Dice Game](https://b-nikhil-16.github.io/dice-game/)
 
 ## 🛠️ Technologies Used
 
